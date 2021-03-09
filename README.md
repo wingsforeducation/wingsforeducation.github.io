@@ -15,7 +15,7 @@
 
 ## About
 
-**This repository implements an integrated landing page and blog dedicated to Wifec. We use [Jekyll](https://jekyllrb.com/) platform and [Alembic](https://github.com/daviddarnes/alembic) theme.
+**This repository implements an integrated landing page and blog dedicated to Wifec. We use [Jekyll](https://jekyllrb.com/) platform and [Alembic](https://github.com/daviddarnes/alembic) theme.**
 
 ## Customising
 
