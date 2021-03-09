@@ -1,4 +1,4 @@
-# [How to edit this website]
+# How to edit this website
 [![Gem Version](https://badge.fury.io/rb/alembic-jekyll-theme.svg)](https://badge.fury.io/rb/alembic-jekyll-theme)
 
 ## Contents
